@@ -1,0 +1,27 @@
+# Public website release: add new site assets here when the page uses them.
+/*
+!/.gitignore
+!/index.html
+!/assets/
+/assets/*
+!/assets/anissa.webp
+!/assets/armchair.jpg
+!/assets/flowers.jpg
+!/assets/forest.jpg
+!/assets/hero.jpg
+!/assets/logo.png
+!/assets/shoreline.jpg
+!/assets/tea.jpg
+
+# Local work and history must stay outside the public repository.
+/backup/
+/.file-versions/
+/.od-frames/
+/.od-skills/
+/截圖-*.png
+*.bak
+*.tmp
+*.temp
+*.swp
+*.swo
+.DS_Store
